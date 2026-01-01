@@ -3,11 +3,11 @@ import boto3
 
 # Connect to DynamoDB
 dynamodb = boto3.resource('dynamodb')
-table = dynamodb.Table('UserMessages')  # Make sure this matches your table name
+table = dynamodb.Table('UserMessages') 
 
 def lambda_handler(event, context):
     try:
-        # Read data from the API request
+        # Read data from API request
         data = json.loads(event['body'])
         
         # Put data into DynamoDB
