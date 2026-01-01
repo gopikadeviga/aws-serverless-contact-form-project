@@ -1,7 +1,7 @@
 # AWS Serverless Contact Form
 
 A **Serverless Contact Form** project built using **AWS Lambda, API Gateway, and DynamoDB**.  
-Users can submit their name, email, and message, these submitted datas are stored in DynamoDB.
+Users can submit their details (name, email, and message), these submitted datas are stored in DynamoDB.
 
 ## Architecture
 
