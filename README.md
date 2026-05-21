@@ -27,6 +27,10 @@ In future : Try implementation with SES (email notification)
 
 <img width="564" height="213" alt="11-function-overview-diagram" src="https://github.com/user-attachments/assets/5ab2605b-f413-4cb7-8c61-073e5d982b0d" />
 
+## Lambda Configuration
+
+<img width="729" height="205" alt="12-lambda-config" src="https://github.com/user-attachments/assets/c2e5e6e8-c665-4cc4-becd-601944518496" />
+
 
 ## How to Test
 
