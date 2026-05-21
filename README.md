@@ -9,7 +9,6 @@ User --> API Gateway --> Lambda Function --> DynamoDB
 
 In future : Try implementation with SES (email notification)
 
-
 ## Features
 
 - Accepts user input (name, email, message) via API POST request  
@@ -22,7 +21,7 @@ In future : Try implementation with SES (email notification)
 - **API Gateway**: HTTP API endpoint for Lambda  
 - **DynamoDB**: NoSQL database to store user submissions  
 - **IAM**: Permissions for Lambda to access DynamoDB  
-- **SES** (optional): Email notification  
+- **SES**: (optional): Email notification  
 
 ## How to Test
 
