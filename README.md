@@ -23,6 +23,11 @@ In future : Try implementation with SES (email notification)
 - **IAM**: Permissions for Lambda to access DynamoDB  
 - **SES**: (optional): Email notification  
 
+## Function Overview Diagram
+
+<img width="564" height="213" alt="11-function-overview-diagram" src="https://github.com/user-attachments/assets/5ab2605b-f413-4cb7-8c61-073e5d982b0d" />
+
+
 ## How to Test
 
 1. Use **curl** or **Postman** to send a POST request:
