@@ -5,6 +5,8 @@ Users can submit their details (name, email, and message), these submitted datas
 
 ## Architecture
 
+<img width="666" height="328" alt="00 main-serverless-architecture" src="https://github.com/user-attachments/assets/c4c26b8e-11b5-4dab-8bb9-e69f56fb6c05" />
+
 User --> API Gateway --> Lambda Function --> DynamoDB
 
 In future : Try implementation with SES (email notification)
