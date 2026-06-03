@@ -5,7 +5,7 @@ Users can submit their details (name, email, and message), these submitted datas
 
 ## Architecture
 
-<img width="684" height="306" alt="00 main-serverless-architecture" src="https://github.com/user-attachments/assets/234f9a8d-6358-49db-91c1-e905bc1b8828" />
+<img width="1080" height="482" alt="00 main-serverless-architecture" src="https://github.com/user-attachments/assets/eed253c7-b994-41b2-80c9-9ecfed157cd2" />
 
 
 User --> API Gateway --> Lambda Function --> DynamoDB
