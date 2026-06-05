@@ -35,7 +35,6 @@ In future : Try implementation with SES (email notification)
 
 <img width="729" height="205" alt="12-lambda-config" src="https://github.com/user-attachments/assets/c2e5e6e8-c665-4cc4-becd-601944518496" />
 
-
 ## How to Test
 
 1. Use **curl** or **Postman** to send a POST request:
