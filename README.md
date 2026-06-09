@@ -5,7 +5,6 @@ Users can submit their details (name, email, and message), these submitted datas
 
 ## Architecture
 
-
 <img width="1080" height="482" alt="00 main-serverless-architecture" src="https://github.com/user-attachments/assets/eed253c7-b994-41b2-80c9-9ecfed157cd2" />
 
 
