@@ -42,5 +42,4 @@ curl -X POST "YOUR_API_GATEWAY_ENDPOINT" \
 -H "Content-Type: application/json" \
 -d "{\"name\":\"Gopika\",\"email\":\"gopika@example.com\",\"message\":\"Hello world\"}"
 
-
 2. Check DynamoDB table for new entries as you add
